@@ -1,4 +1,4 @@
-# Prediksi Indeks Pembangunan Manusia (IPM) dengan Random Forest
+# Prediksi Indeks Pembangunan Manusia (IPM) di Jawa Tengah Tahun 2024 dengan Random Forest
 
 ## Deskripsi Project
 Project ini merupakan implementasi machine learning menggunakan algoritma Random Forest Regression untuk memprediksi nilai Indeks Pembangunan Manusia (IPM) berdasarkan beberapa indikator pembangunan daerah di Indonesia. Dataset yang digunakan berasal dari data IPM kabupaten/kota tahun 2024, yang kemudian diproses menggunakan Python dan library seperti pandas serta scikit-learn. <br>
